@@ -2,7 +2,6 @@ Actividad-arboles
 Actividad en la que estaremos implementando en Java un Árbol Binario simple
 
 Este trabajo fue realizado en conjunto por 
-Juan Andres Valencia
 Maria Valentina Chica
 Andres Estiven Castañeda
 
