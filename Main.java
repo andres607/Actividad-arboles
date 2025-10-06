@@ -54,7 +54,7 @@ class ArbolBinario {
         }
         return valor < nodo.valor
                 ? buscarRec(nodo.izquierdo, valor)
-                : buscarRec(nodo.izquierdo, valor);
+                : buscarRec(nodo.derecho, valor);
     }
 }
 //Menú en consola
