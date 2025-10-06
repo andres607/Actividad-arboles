@@ -4,6 +4,7 @@ Actividad en la que estaremos implementando en Java un Árbol Binario simple
 Este trabajo fue realizado en conjunto por 
 Maria Valentina Chica
 Andres Estiven Castañeda
+Estefania Orrego
 
 ¿Qué es un Árbol Binario?
 
